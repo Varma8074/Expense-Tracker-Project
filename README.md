@@ -208,4 +208,4 @@ key functions and overall program structure
 Conclusion 
 This implementation provides a fully functional *Expense Tracker* application that meets 
 all the project requirements. You can further enhance it by adding features like graphical 
-user interfaces (GUI) using libraries like Tkinter or PyQt.
+user interfaces (GUI) using libraries like Tkinter or PyQt..
